@@ -9,5 +9,8 @@ body {
 
 p {
   font-size: 1em;
+
   color: brown;
+
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
