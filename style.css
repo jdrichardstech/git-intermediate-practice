@@ -6,3 +6,7 @@ body {
   letter-spacing: 0.2em;
   color: #3b3b3b;
 }
+
+p {
+  font-size: 1em;
+}
