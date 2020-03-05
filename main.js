@@ -5,4 +5,3 @@ let newArr = arr.map(item => {
 });
 
 let x = 3;
-let x = 3;
