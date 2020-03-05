@@ -1,5 +1,5 @@
 let arr = [1, 2, 3, 4];
 
 let newArr = arr.map(item => {
-  return item + 1;
+  return item + 4;
 });
