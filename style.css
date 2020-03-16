@@ -7,11 +7,8 @@ body {
   color: #3b3b3b;
 }
 
-<<<<<<< HEAD
 p {
-  font-size: 1em;
-=======
-p{
-font-size:1.1em;
->>>>>>> 835a8702ca17c23e9b113eeadc50d54413c4eeb8
+  font-size: 1.1em;
+  color: red;
+  font-family: Arial, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
